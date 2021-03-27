@@ -306,6 +306,8 @@ $ out/Debug/ch
 * [CVE-2019-5782 Write-Up](https://github.com/vngkv123/aSiagaming/tree/master/Chrome-v8-906043)
 * [CVE-2019-5790](https://labs.bluefrostsecurity.de/blog/2019/04/29/dont-follow-the-masses-bug-hunting-in-javascript-engines/)
 * [CVE-2019-5786 Chrome Remote Code Execution Vulnerability Analysis](https://www.weibo.com/ttarticle/p/show?id=2309404351596157885398)
+* [CVE-2020-15972 Part 3 - Chrome renderer RCE](https://securitylab.github.com/research/one_day_short_of_a_fullchain_renderer/) + [Exploit](https://github.com/github/securitylab/tree/main/SecurityExploits/Chrome/blink/CVE-2020-15972)
+* [GHSL-2020-165 Part 2 - Chrome sandbox escape](https://securitylab.github.com/research/one_day_short_of_a_fullchain_sbx/) + [Exploit](https://github.com/github/securitylab/tree/main/SecurityExploits/Chrome/SandboxEscape/GHSL-2020-165)
 
 
 ### Hardening & Mitigations
